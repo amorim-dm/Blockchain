@@ -1,0 +1,15 @@
+/home/amorinus/workspace/blockchain/csharp/Blockchain/bin/Debug/net8.0/Blockchain
+/home/amorinus/workspace/blockchain/csharp/Blockchain/bin/Debug/net8.0/Blockchain.deps.json
+/home/amorinus/workspace/blockchain/csharp/Blockchain/bin/Debug/net8.0/Blockchain.runtimeconfig.json
+/home/amorinus/workspace/blockchain/csharp/Blockchain/bin/Debug/net8.0/Blockchain.dll
+/home/amorinus/workspace/blockchain/csharp/Blockchain/bin/Debug/net8.0/Blockchain.pdb
+/home/amorinus/workspace/blockchain/csharp/Blockchain/obj/Debug/net8.0/Blockchain.GeneratedMSBuildEditorConfig.editorconfig
+/home/amorinus/workspace/blockchain/csharp/Blockchain/obj/Debug/net8.0/Blockchain.AssemblyInfoInputs.cache
+/home/amorinus/workspace/blockchain/csharp/Blockchain/obj/Debug/net8.0/Blockchain.AssemblyInfo.cs
+/home/amorinus/workspace/blockchain/csharp/Blockchain/obj/Debug/net8.0/Blockchain.csproj.CoreCompileInputs.cache
+/home/amorinus/workspace/blockchain/csharp/Blockchain/obj/Debug/net8.0/Blockchain.sourcelink.json
+/home/amorinus/workspace/blockchain/csharp/Blockchain/obj/Debug/net8.0/Blockchain.dll
+/home/amorinus/workspace/blockchain/csharp/Blockchain/obj/Debug/net8.0/refint/Blockchain.dll
+/home/amorinus/workspace/blockchain/csharp/Blockchain/obj/Debug/net8.0/Blockchain.pdb
+/home/amorinus/workspace/blockchain/csharp/Blockchain/obj/Debug/net8.0/Blockchain.genruntimeconfig.cache
+/home/amorinus/workspace/blockchain/csharp/Blockchain/obj/Debug/net8.0/ref/Blockchain.dll
