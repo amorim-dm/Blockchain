@@ -9,11 +9,11 @@ namespace Blockchain
 {
     public class Block
     {
-        public int Index { get; private set; }
-        public DateTime TimeStamp { get; private set; }
-        public string PreviousHash { get; private set; }
-        public string Hash { get; private set; }
-        public string Data { get; private set; }
+        public int Index { get; set; }
+        public DateTime TimeStamp { get; set; }
+        public string PreviousHash { get; set; }
+        public string Hash { get; set; }
+        public string Data { get; set; }
 
         public Block(int index, string previousHash, string data){
             Index = index;
